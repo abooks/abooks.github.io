@@ -1,13 +1,13 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://abooks.github.io/sitemap-00-brooklyn-ritchie.xml
-Sitemap: http://abooks.github.io/sitemap-01-camille-cruickshank.xml
-Sitemap: http://abooks.github.io/sitemap-02-ellis-bahringer-iv.xml
-Sitemap: http://abooks.github.io/sitemap-03-sage-graham.xml
-Sitemap: http://abooks.github.io/sitemap-04-vallie-yost.xml
-Sitemap: http://abooks.github.io/sitemap-05-sydni-barton.xml
-Sitemap: http://abooks.github.io/sitemap-06-carlie-ebert.xml
-Sitemap: http://abooks.github.io/sitemap-07-prof-jarret-greenholt-i.xml
-Sitemap: http://abooks.github.io/sitemap-08-hazel-jacobi.xml
-Sitemap: http://abooks.github.io/sitemap_index.xml
+Sitemap: https://abooks.github.io/sitemap-00-brooklyn-ritchie.xml
+Sitemap: https://abooks.github.io/sitemap-01-camille-cruickshank.xml
+Sitemap: https://abooks.github.io/sitemap-02-ellis-bahringer-iv.xml
+Sitemap: https://abooks.github.io/sitemap-03-sage-graham.xml
+Sitemap: https://abooks.github.io/sitemap-04-vallie-yost.xml
+Sitemap: https://abooks.github.io/sitemap-05-sydni-barton.xml
+Sitemap: https://abooks.github.io/sitemap-06-carlie-ebert.xml
+Sitemap: https://abooks.github.io/sitemap-07-prof-jarret-greenholt-i.xml
+Sitemap: https://abooks.github.io/sitemap-08-hazel-jacobi.xml
+Sitemap: https://abooks.github.io/sitemap_index.xml
